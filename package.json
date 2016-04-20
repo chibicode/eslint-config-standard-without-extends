@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "version": "0.1.0",
+  "devDependencies": {
+    "eslint-config-standard": "^5.1.0",
+    "eslint-config-standard-jsx": "^1.1.1",
+    "eslint-config-standard-react": "^2.3.0",
+    "eslint-plugin-promise": "^1.1.0",
+    "eslint-plugin-react": "^5.0.1",
+    "lodash": "^4.11.1"
+  }
+}
